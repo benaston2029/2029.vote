@@ -1,4 +1,6 @@
 # Privacy Policy
+Project 2029 is a grassroots movement, set up by Ben Aston, with the aim of developing an effective Get Out The Vote operation for Bournemouth West in the 2029 general election.
+
 This Privacy Policy describes how and when Project 2029 collects, uses, and shares information.
 
 This Privacy Policy does not apply to third parties that Project 2029 does not own or control.
