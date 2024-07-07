@@ -6,7 +6,7 @@ This Privacy Policy describes how and when Project 2029 collects, uses, and shar
 This Privacy Policy does not apply to third parties that Project 2029 does not own or control.
 
 ## 1. INFORMATION WE COLLECT
-In order for us to keep in touch with us, you must provide us with certain information such as your name and email address You may also choose to provide us with additional personal information if you choose to do so.
+In order for us to keep in touch with us, you must provide us with certain information such as your name and email address. You may also choose to provide us with additional personal information if you choose to do so.
 
 ## 2. WHY WE NEED YOUR INFORMATION & HOW WE USE IT
 We rely on a number of legal bases to collect, use, and share your information, including:
